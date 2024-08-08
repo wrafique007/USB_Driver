@@ -3,6 +3,6 @@ This project is about Full Speed USB 2.0 driver. In this project STM32 MCU acts 
 In this project I also used CMSIS driver layer to perform low level peripheral initializations of Hardware e.g. Clocks and PLL initialization
 
 # Hardware used
-STM32F407VG Board
-# IDE Used
-STM32CubeIDE
+  * STM32F407VG Board
+# Software Used
+  * STM32CubeIDE
